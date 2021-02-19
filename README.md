@@ -4,7 +4,7 @@ Create and deploy your own WebRTC webapp with Google App Engine
 
 # Before the workshop
 
-- create a google cloud console acount [here](https://cloud.google.com/)
+- create a google cloud console account [here](https://cloud.google.com/)
   (skip if you have one)
 
 ## Install:
