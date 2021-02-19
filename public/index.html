@@ -1,9 +1,14 @@
 <!DOCTYPE html>
 <head>
-    <title>Mentorship</title>
+    <title>ADI Mentorship</title>
+    <link rel="stylesheet" href="style.css">
+
 </head>
 <body>
-    <h1>ADI Mentorship</h1>
+    <div class="wrap">
+
+    
+    <h1> 🦁 ADI Mentorship 🐻</h1>
 
     <div id="selectRoom">
         <label>Type your favorite room number</label>
@@ -11,10 +16,11 @@
         <button id="goRoom">Go</button>
     </div>
 
-    <div id="consultingRoom" style="display:none">
+    <div class="wrapVideo" id="MentorshipRoom" >
         <video id="localVideo" autoplay></video>
         <video id="remoteVideo" autoplay></video>
     </div>
+</div>
 
     <script src="/socket.io/socket.io.js"></script>
     <script src="client.js"></script>

@@ -1,0 +1,25 @@
+body {
+  background-image: linear-gradient(#bad9eb, #6cade5);
+  height: 100vh;
+}
+.wrap {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+h1 {
+  text-align: center;
+}
+
+video {
+  width: 500px;
+  height: 100%;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.wrapVideo {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
