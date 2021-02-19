@@ -24,7 +24,7 @@ $ gcloud -v
 
 # Running your video webapp locally
 
-### step 0 -
+### step 0 - (clone the repo)
 
 ```
 $ git clone https://github.com/chini5ko/webrtc-workshop.git
@@ -86,7 +86,7 @@ checkout [pairstudy.com](https://www.pairstudy.com)
 
 - https://webrtc.org/getting-started/firebase-rtc-codelab
 - https://webrtc.github.io/samples/
-- Workshop slide
+- [Workshop slide](https://docs.google.com/presentation/d/1oBXDO5dXUtMYLiVKDJbk0vBaue_WWRfXDwsPh6FOeg4/edit?usp=sharing)
 
 ##### Note:
 
